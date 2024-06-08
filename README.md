@@ -6,4 +6,4 @@
 * Institución: Instituto Superior Politécnico Córdoba (ISPC)
 * Año: 2024
 
-### [Ver Jupyter Notebook](https://github.com/manuelpalomeque/ISPC--An-lisisDeDatos--DataBring/blob/main/Proyecto%20Integrador%20-%20Analista%20de%20Datos%20-%20ISPC.ipynb) 
+### [Ver Jupyter Notebook](https://github.com/manuelpalomeque/ISPC-Analisis-De-Datos/blob/main/Proyecto%20Integrador%20-%20Analista%20de%20Datos%20-%20ISPC-Palomeque.ipynb) 
